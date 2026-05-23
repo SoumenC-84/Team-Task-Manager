@@ -121,7 +121,7 @@ export default function CreateTaskModal({
                             px-4
                             py-2
                             rounded
-                        
+                            bg-opacity-70
                         "
                     >
                         Cancel
