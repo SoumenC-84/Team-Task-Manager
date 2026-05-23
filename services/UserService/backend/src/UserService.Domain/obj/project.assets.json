@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
+      "projectUniqueName": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
       "projectName": "UserService.Domain",
-      "projectPath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
+      "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj",
       "packagesPath": "C:\\Users\\CE\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\obj\\",
+      "outputPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

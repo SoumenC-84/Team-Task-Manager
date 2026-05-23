@@ -4037,8 +4037,8 @@
     },
     "UserService.Domain/1.0.0": {
       "type": "project",
-      "path": "../Userservice.Domain/UserService.Domain.csproj",
-      "msbuildProject": "../Userservice.Domain/UserService.Domain.csproj"
+      "path": "../UserService.Domain/UserService.Domain.csproj",
+      "msbuildProject": "../UserService.Domain/UserService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4057,11 +4057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\userservice.infrastructure\\userservice.infrastructure.csproj",
-      "projectName": "userservice.infrastructure",
-      "projectPath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\userservice.infrastructure\\userservice.infrastructure.csproj",
+      "projectUniqueName": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
+      "projectName": "UserService.Infrastructure",
+      "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\CE\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\userservice.infrastructure\\obj\\",
+      "outputPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4082,11 +4082,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application\\UserService.Application.csproj": {
-              "projectPath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application\\UserService.Application.csproj"
+            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application\\UserService.Application.csproj": {
+              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Application\\UserService.Application.csproj"
             },
-            "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\Userservice.Domain\\UserService.Domain.csproj": {
-              "projectPath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\Userservice.Domain\\UserService.Domain.csproj"
+            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj": {
+              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Domain\\UserService.Domain.csproj"
             }
           }
         }

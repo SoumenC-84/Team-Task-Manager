@@ -37,8 +37,7 @@ export default function CreateTaskModal({
                     rounded-xl
                     p-6
                     w-[500px]
-                    shadow-2xl
-                "
+                    shadow-2xl"
             >
 
                 <h2 className="text-2xl font-bold mb-4">

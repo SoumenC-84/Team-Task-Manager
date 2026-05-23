@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Domain\\CleanArcht.Domain.csproj",
+      "projectUniqueName": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Domain\\CleanArcht.Domain.csproj",
       "projectName": "CleanArcht.Domain",
-      "projectPath": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Domain\\CleanArcht.Domain.csproj",
+      "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Domain\\CleanArcht.Domain.csproj",
       "packagesPath": "C:\\Users\\CE\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Domain\\obj\\",
+      "outputPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

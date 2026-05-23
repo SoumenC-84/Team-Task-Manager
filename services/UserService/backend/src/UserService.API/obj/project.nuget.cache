@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G7Mzou2WNMY=",
+  "dgSpecHash": "WL9vjS7L//s=",
   "success": true,
-  "projectFilePath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.API\\UserService.API.csproj",
+  "projectFilePath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.API\\UserService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CE\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\CE\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

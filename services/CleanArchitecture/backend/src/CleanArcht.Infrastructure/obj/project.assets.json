@@ -4751,11 +4751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Infrastructure\\CleanArcht.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Infrastructure\\CleanArcht.Infrastructure.csproj",
       "projectName": "CleanArcht.Infrastructure",
-      "projectPath": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Infrastructure\\CleanArcht.Infrastructure.csproj",
+      "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Infrastructure\\CleanArcht.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\CE\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Infrastructure\\obj\\",
+      "outputPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4776,8 +4776,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Application\\CleanArcht.Application.csproj": {
-              "projectPath": "D:\\Project\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Application\\CleanArcht.Application.csproj"
+            "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Application\\CleanArcht.Application.csproj": {
+              "projectPath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\CleanArchitecture\\backend\\src\\CleanArcht.Application\\CleanArcht.Application.csproj"
             }
           }
         }

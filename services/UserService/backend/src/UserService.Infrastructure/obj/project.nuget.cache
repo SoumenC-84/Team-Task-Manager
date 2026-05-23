@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l2Uf3CEgWzM=",
+  "dgSpecHash": "9mYgyUABy2Q=",
   "success": true,
-  "projectFilePath": "D:\\Project\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
+  "projectFilePath": "D:\\Project\\MicroservicePOC Backup\\MicroservicesPOC\\services\\UserService\\backend\\src\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CE\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\CE\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
