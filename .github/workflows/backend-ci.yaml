@@ -16,12 +16,12 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore microservicepoc.sln
+        run: dotnet restore MicroservicesPOC.sln
 
       - name: Build the project
-        run: dotnet build microservicepoc.sln --configuration Release --no-restore
+        run: dotnet build MicroservicesPOC.sln --configuration Release --no-restore
 
       - name: Run tests
-        run: dotnet test microservicepoc.sln --configuration Release --no-build --
+        run: dotnet test MicroservicesPOC.sln --configuration Release --no-build --
         
  
