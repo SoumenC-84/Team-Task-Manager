@@ -910,8 +910,9 @@
           "UserService.Domain": "1.0.0"
         },
         "runtime": {
-          "userservice.Application.dll": {
-            "fileVersion": "0.0.0.0"
+          "UserService.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
